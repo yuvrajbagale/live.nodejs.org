@@ -2,6 +2,8 @@
 
 ## Contributing
 
+##logr-this an amazing website
+
 Checkout the git repo and get started:
 
 ```
